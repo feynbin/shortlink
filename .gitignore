@@ -1,0 +1,13 @@
+# 本地 IDE
+.idea/
+.vscode/
+
+# 与本项目无关的前端实验
+web/
+frontend/
+
+# 构建产物
+/shortlink
+/gintest
+*.test
+*.out
